@@ -6,16 +6,17 @@
 
 ## My links:
 
-* [mxkvl.com](https://mxkvl.com)
-* [me@mxkvl.com](mailto:me@mxkvl.com)
-* [Twitter](https://twitter.com/mxkwl)
-* [Reddit](https://www.reddit.com/user/maxkvl)
-* [Dev.to](https://dev.to/mxkvl)
-* [Medium](https://medium.com/@mxkvl)
+* [kowalevski.com](https://kowalevski.com)
+* [me@kowalevski.com](mailto:me@kowalevski.com)
+* [Twitter](https://twitter.com/mkowalevski)
+* [npm](https://www.npmjs.com/~kowalevski)
+* [Reddit](https://www.reddit.com/user/kowalevski)
+* [Dev.to](https://dev.to/kowalevski)
+* [Medium](https://medium.com/@kowalevski)
 * [Hacker Noon](https://hackernoon.com/u/mxkvl)
-* [Stack Overflow](https://stackoverflow.com/users/10805030/w1zm8)
-* [HN](https://news.ycombinator.com/user?id=mxkvl)
-* [Patreon](https://www.patreon.com/mxkvl)
-* [Open Collective](https://opencollective.com/mxkvl)
-* [IndieHackers](https://www.indiehackers.com/mxkvl)
+* [Stack Overflow](https://stackoverflow.com/users/10805030/kowalevski)
+* [HN](https://news.ycombinator.com/user?id=kowalevski)
+* [Patreon](https://www.patreon.com/kowalevski)
+* [Open Collective](https://opencollective.com/kowalevski)
+* [IndieHackers](https://www.indiehackers.com/kowalevski)
 
